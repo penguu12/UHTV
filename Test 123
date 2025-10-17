@@ -37,6 +37,9 @@ https://jungotvstream.chanall.tv/jungotv/combatgo/playlist_720p.m3u8
 #KID:2615129ef2c846a9bbd43a641c7303ef #KEY:07c7f996b1734ea288641a68e1cfdc4d
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd.mpd
 
+#EXTINF:-1 tvg-id="TV5" tvg-name="TV5" tvg-logo="" group-title="Filipino",TV5
+http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="HBOXTREME" tvg-name="HBO XTREME" tvg-logo="" group-title="Movies | HBO",HBO XTREME
 #KID:bc8d4369fcff86db765db82356b4797c #KEY:8a7e801dbc275e3f4e1f43cba648906a
 https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-XTREME-HD/default.mpd
